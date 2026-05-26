@@ -1,7 +1,7 @@
 ---
 title: "Mechanistic Data Attribution: Tracing the Training Origins of Interpretable LLM Units"
 collection: publications
-category: conferences
+category: Conference Papers
 permalink: /publication/MDA
 date: 2026-01-28
 venue: "International Conference on Machine Learning (ICML), 2026 Oral"
