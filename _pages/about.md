@@ -2,15 +2,19 @@
 permalink: /
 title: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a junior undergraduate student at Department of Probability and Statistics, School of Mathematical Sciences, Peking University, majoring in Statistics. I'm working as a research intern at PKU Interpretable Large Language model And Reasoning (PILLAR) Group, advised by [Prof. Liangming Pan](https://liangmingpan.bio/).
+I am an undergraduate student in the Department of Probability and Statistics, School of Mathematical Sciences, Peking University, pursuing a B.S. in Statistics (expected 2027).
 
-My research interests broadly lie in machine learning and artificial intelligence, with a particular focus on mechanistic interpretability and training data attribution. I am guided by the belief that meaningful research should deepen our understanding of the internal mechanisms of machine learning models while enabling reliable and trustworthy behavior in real-world applications. 
+I am currently a research intern at George Mason University, advised by [Prof. Ziyu Yao](https://ziyuyao.org/), where I work on mechanistic interpretability for planning-related world modelling in agents. I also work with [Prof. Liangming Pan](https://liangmingpan.bio/) in the PKU Interpretable Large Language model And Reasoning (PILLAR) Group on mechanistic data attribution and training-data interventions for large language models.
 
-I am seeking a PhD opportunity for Fall 2027. Please feel free to reach out!
-You can find me at: luoyuzzhang [at] stu [dot] pku [dot] edu [dot] cn.
+My research interests include **large language models, mechanistic interpretability, training data attribution, and alignment**. Broadly, I am interested in understanding how training data gives rise to internal mechanisms and model behaviors, and how such understanding can enable targeted interventions and more reliable AI systems. 
 
+Recent work includes **Mechanistic Data Attribution (MDA)**, accepted as an **ICML 2026 Oral (Top 0.7%)**, and **From Reweighting to Rewriting**, an arXiv preprint on turning influential training examples into effective behavioral interventions.
+
+I am applying to PhD programs for Fall 2027. Please feel free to reach out at luoyuzzhang [at] stu [dot] pku [dot] edu [dot] cn.
+
+<a class="btn btn--primary" href="/files/Yuzhang_Luo_CV.pdf" download>Download CV (PDF)</a>
