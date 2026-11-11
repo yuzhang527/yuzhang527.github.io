@@ -13,7 +13,7 @@ My research interests lie in large language models, mechanistic interpretability
 
 At Peking University, I work with [Prof. Liangming Pan](https://liangmingpan.bio/) in the PKU Interpretable Large Language model And Reasoning (PILLAR) Group on mechanistic data attribution and training-data interventions for LLMs. I have also worked with [Prof. Ziyu Yao](https://ziyuyao.org/) as a research intern at George Mason University, studying the internal representations and use of world models in planning agents.
 
-My recent work includes **Mechanistic Data Attribution (MDA)** (**ICML 2026 Oral (Top 0.7%)**), **From Reweighting to Rewriting** (arXiv preprint), and **Represented but Not Used**, a research project on implicit world modeling in planning agents.
+My recent work includes **Mechanistic Data Attribution (MDA)** (**ICML 2026 Oral (Top 0.7%)**), **From Reweighting to Rewriting** (arXiv preprint), and **Represented but Not Used**(arxiv preprint).
 
 I am applying to PhD programs for Fall 2027. Please feel free to reach out at luoyuzzhang [at] stu [dot] pku [dot] edu [dot] cn.
 
